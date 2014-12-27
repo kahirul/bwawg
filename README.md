@@ -1,3 +1,3 @@
 ## Building Web Apps with Go
 
-(Ref)[http://codegangsta.gitbooks.io]
+[Ref](http://codegangsta.gitbooks.io)
